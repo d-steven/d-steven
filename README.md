@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Cybersecurity 
 - 🌱 I’m currently learning ... Cyberecurity CompTIA Sec+/CySA+
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me ... dinh.steven@outlook.com
 
 <!---
 d-steven/d-steven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
